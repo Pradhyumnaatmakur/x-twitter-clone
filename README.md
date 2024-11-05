@@ -131,9 +131,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspired by Twitter/X
 - Built with modern web development best practices
 - Special thanks to the open-source community
-
-## 📧 Contact
-
-Your Name - [your@email.com](mailto:your@email.com)
-
-Project Link: [https://github.com/yourusername/x-clone](https://github.com/yourusername/x-clone)
