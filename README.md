@@ -1,6 +1,6 @@
 # X / Twitter Clone 🐦
 
-A full-featured Twitter/X clone built with the MERN stack (MongoDB, Express.js, React.js, Node.js) and modern web technologies.
+A full-featured Twitter/X clone built with the MERN stack (MongoDB, Express.js, React.js, Node.js) and modern web app technologies.
 
 ## ✨ Features
 
